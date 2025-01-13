@@ -1,4 +1,8 @@
-# Foxhole-USA-GERMANY-Modpack
+### **<h1 align="center">Foxhole-USA-GERMANY-Modpack</h1>**
+
+<p align="center">
+  <img src="src/static/img/logo.png" alt="logo" width="250">
+</p>
 
 ## Description
 
@@ -109,6 +113,7 @@ The images included here provide a preview of how the modpack appears at the tim
   - [Panzerschreck (Cutler)](https://okidoooke.itch.io/world-war-ii-infantry-weapons) [okidooke]
 
 ## Optional Contents:
+Not included in the modpack !
 
 ### Utilities:
 - [Weapons Stats](https://discord.com/channels/867256068475977748/1200427677652365363/1200427677652365363) (Displays weapon stats in the inventory description but doesn't seem up to date) [blackout]
