@@ -14,7 +14,7 @@ Alternatively, you can review the list of included mods in the [ModPack Contents
 
 Another option is to review the list of included mods in the first comments of the post and click on any specific mod you are interested in to be redirected to its respective page. -->
 
-## Complete ModPack (v1.0)
+## Complete ModPack (v1.1)
 **Download here:**
 <a href="https://drive.google.com/file/d/12xMKNTcYYfXOtQ03mqKk0KITDkFow0LD/view?usp=drive_link" target="_blank">Download Link</a>
 
