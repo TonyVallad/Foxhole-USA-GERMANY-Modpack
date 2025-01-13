@@ -12,7 +12,7 @@ Another option is to review the list of included mods in the first comments of t
 
 ## Complete ModPack (v1.0)
 **Download here:**
-[Download Link](https://drive.google.com/file/d/12xMKNTcYYfXOtQ03mqKk0KITDkFow0LD/view?usp=drive_link)
+<a href="https://drive.google.com/file/d/12xMKNTcYYfXOtQ03mqKk0KITDkFow0LD/view?usp=drive_link" target="_blank">Download Link</a>
 
 <!-- ## By Categories (Outdated)
 
