@@ -126,7 +126,7 @@ Not included in the modpack !
 
 ### Utilities:
 - [Tanker Sound Callouts](https://saul-mangood.itch.io/tanker-callouts) [Saul_ManGood]
-- [UI Styles](https://ceeps.itch.io/foxhole-ui-styles) (I want to add RedStatic-Warden from that mod but can't find it...) [Ceeps]
+- [UI Styles](https://ceeps.itch.io/foxhole-ui-styles) [Ceeps]
 - [Weapons Stats](https://discord.com/channels/867256068475977748/1200427677652365363/1200427677652365363) (Displays weapon stats in the inventory description but doesn't seem up to date) [blackout]
 - [Santa Hat](https://nautilusd.itch.io/santa-hat) (Does not work with uniform skins) [nautilusd]
 - [Mud & Blood](https://biackout.itch.io/shit-grenade-private-throw-it-back-now) (Incompatible with uniform skins) [blackout]
