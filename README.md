@@ -1,4 +1,4 @@
-### **<h1 align="center">Foxhole-USA-GERMANY-Modpack</h1>**
+**<h1 align="center">Foxhole-USA-GERMANY-Modpack</h1>**
 
 <p align="center">
   <img src="src/static/img/logo.png" alt="logo" width="250">
@@ -121,7 +121,7 @@ The images included here provide a preview of how the modpack appears at the tim
   - [Trench Gun (Shotgun)](https://britempire09.itch.io/trenchgun-for-shotgun) [BritEmpire09]
   - [Panzerschreck (Cutler)](https://okidoooke.itch.io/world-war-ii-infantry-weapons) [okidooke]
 
-## **<h1 align="center">Optional Contents:</h1>**
+**<h1 align="center">Optional Contents:</h1>**
 Not included in the modpack !
 
 ### Utilities:
