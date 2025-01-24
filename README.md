@@ -14,7 +14,7 @@ Alternatively, you can review the list of included mods in the [ModPack Contents
 
 Another option is to review the list of included mods in the first comments of the post and click on any specific mod you are interested in to be redirected to its respective page. -->
 
-## Complete ModPack (v1.1)
+## Complete ModPack (v1.2)
 **Download here:**
 <a href="https://drive.google.com/file/d/12xMKNTcYYfXOtQ03mqKk0KITDkFow0LD/view?usp=drive_link" target="_blank">Download Link</a>
 
@@ -50,32 +50,41 @@ The images included here provide a preview of how the modpack appears at the tim
 ## ModPack Contents:
 
 ### Utilities:
-- [Skaj's super uber-fantastical Foxhole sound mod](https://skaj999.itch.io/super-uber-fantastical-foxhole-sound-mod) (Improved sounds) [skaj]
-- [Soundpack from Sev](https://www.nexusmods.com/foxhole/mods/102) [sev]
-- [New Icons Mod](https://rainbowbu.itch.io/new-icons-modfoxhole) (Colored items) [Bu]
-- [BB Tiers](https://nautilusd.itch.io/bb-tiers) (Visible bunker tiers on the map) [nautilusd]
-- [Colorful Crosshairs](https://ceeps.itch.io/colorful-crosshairs) (Colored crosshair, yellow in this pack) [Ceeps]
-- [ImprovedMapMode KnightofScience Edit](https://knight-of-science.itch.io/improved-map-mod-kos-edit) (Enhanced map) [Knight of Science]
-- [GoblinGreen & SimpleRed](https://ceeps.itch.io/chadblue-simplered-ui) (Better green icons for Colonials and red for Wardens) [Ceeps]
-- [Resource Mines/Fields Recolored](https://muki47.itch.io/foxhole-resource-minesfields-recolored) [Muki47]
-- [Text Chat Recolor](https://www.nexusmods.com/foxhole/mods/127) (Improved chat with white content) [patripastry]
-- [Striped Shells Retexture](https://www.nexusmods.com/foxhole/mods/105) (Color-coded shells for easier identification) [mailbock]
-- [Advanced Bars](https://www.nexusmods.com/foxhole/mods/29) (Stamina and fuel bar with separators every 10%) [DustAve & KOCMOHABT]
-- [BetterCompass](https://www.nexusmods.com/foxhole/mods/27) (Enhanced, detailed compass) [KOCMOHABT]
-- [Red Tracers](https://foxholeenjoyer.itch.io/redtracers) [foxholeenjoyer]
-- [Real Trak](https://discord.com/channels/344477723495759876/1042250271281127425/1090921702613073980) (Improved rails with reflections) [?]
+- **Sound:**
+  - [Skaj's super uber-fantastical Foxhole sound mod](https://skaj999.itch.io/super-uber-fantastical-foxhole-sound-mod) (Improved sounds) [skaj]
+  - [Soundpack from Sev](https://www.nexusmods.com/foxhole/mods/102) [sev]
+  - [Metal Pipe Vehicle Destruction Sound](https://goliaten.itch.io/foxhole-metal-pipe-vehicle-destruction-sound) [Goliaten]
+- **Map:**
+  - [ImprovedMapMode KnightofScience Edit](https://knight-of-science.itch.io/improved-map-mod-kos-edit) (Enhanced map) [Knight of Science]
+  - [GoblinGreen & SimpleRed](https://ceeps.itch.io/chadblue-simplered-ui) (Better green icons for Colonials and red for Wardens) [Ceeps]
+  - [New Large Ship Icon](https://dkov.itch.io/foxhole-new-large-ship-icon) [DKoV]
+  - [Resource Mines/Fields Recolored](https://muki47.itch.io/foxhole-resource-minesfields-recolored) [Muki47]
+  - [BB Tiers](https://nautilusd.itch.io/bb-tiers) (Visible bunker tiers on the map) [nautilusd]
+- **HUD:**
+  - [Colorful Crosshairs](https://ceeps.itch.io/colorful-crosshairs) (Colored crosshair, yellow in this pack) [Ceeps]
+  - [Advanced Bars](https://www.nexusmods.com/foxhole/mods/29) (Stamina and fuel bar with separators every 10%) [DustAve & KOCMOHABT]
+  - [BetterCompass](https://www.nexusmods.com/foxhole/mods/27) (Enhanced, detailed compass) [KOCMOHABT]
+  - [New Icons Mod](https://rainbowbu.itch.io/new-icons-modfoxhole) (Colored items) [Bu]
+  - [Text Chat Recolor](https://www.nexusmods.com/foxhole/mods/127) (Improved chat with white content) [patripastry]
+  - [Remove Dirt Mask Overlay](https://wowitsafox.itch.io/foxhole-remove-dirt-mask-overlay) (to test...) [Foxy ♥]
+- **Visuals:**
+  - [Striped Shells Retexture](https://www.nexusmods.com/foxhole/mods/105) (Color-coded shells for easier identification) [mailbock]
+  - [Red Tracers](https://foxholeenjoyer.itch.io/redtracers) [foxholeenjoyer]
+  - [Real Trak](https://discord.com/channels/344477723495759876/1042250271281127425/1090921702613073980) (Improved rails with reflections) [?]
 
 ### Vehicles:
 - **Both factions:**
   - [Better Fuel Trucks](https://discord.com/channels/344477723495759876/1042250271281127425/1100476939648630804) [?]
   - [Flatbed](https://www.nexusmods.com/foxhole/mods/52) [WolfgangIX] + [Yellow Texture](https://discord.com/channels/867256068475977748/1283097872790851687/1283097872790851687) [Autumn]
+  - [Battle Bus Mod](https://danetello.itch.io/foxhole-battle-bus-mod) [Danetello]
 - **Colonial:**
-  - [US Army Vehicles](https://www.nexusmods.com/foxhole/mods/35) (Textures updated with priority to other packs) [kromgar1]
-  - [Imported WWII Vehicles](https://www.nexusmods.com/foxhole/mods/87) (Hatchet, Kraneska, Bardiche)
+  - [US Army Vehicles](https://www.nexusmods.com/foxhole/mods/35) (Textures for most colonial vehicles before changing skins on some of them) [kromgar1]
+  - [Imported WWII Vehicles](https://www.nexusmods.com/foxhole/mods/87) (Hatchet, Kraneska, Bardiche) [WolfgangIX]
   - [Field Gun: 120-68 “Koronides” / Field Gun, 945g “Stygian Bolt”](https://www.nexusmods.com/foxhole/mods/52) [WolfgangIX]
   - [US WW2 Full Conversion](https://discord.com/channels/867256068475977748/1222946596241539112/1236724193463242792) [LunaMoth171 & WolfgangIX]
+  - [AC - Bee | AC - Abelha Skin](https://thgomez.itch.io/ac-bee-ubge-doctrine-skin) [thgomez]
 - **Warden:**
-  - [German Vehicles](https://www.nexusmods.com/foxhole/mods/45) [kromgar1]
+  - [German Vehicles](https://www.nexusmods.com/foxhole/mods/45) (Textures for most warden vehicles before changing skins on some of them) [kromgar1]
   - [WW2 German Vehicle Remodel](https://www.nexusmods.com/foxhole/mods/111) [Stitch]
   - [Hanomag Halftrack Remodel](https://suyanto.itch.io/foxhole-hanomag-halftrack-remodel) [Suyanto]
 
@@ -116,9 +125,12 @@ The images included here provide a preview of how the modpack appears at the tim
 Not included in the modpack !
 
 ### Utilities:
+- [Tanker Sound Callouts](https://saul-mangood.itch.io/tanker-callouts) [Saul_ManGood]
+- [UI Styles](https://ceeps.itch.io/foxhole-ui-styles) (I want to add RedStatic-Warden from that mod but can't find it...) [Ceeps]
 - [Weapons Stats](https://discord.com/channels/867256068475977748/1200427677652365363/1200427677652365363) (Displays weapon stats in the inventory description but doesn't seem up to date) [blackout]
 - [Santa Hat](https://nautilusd.itch.io/santa-hat) (Does not work with uniform skins) [nautilusd]
 - [Mud & Blood](https://biackout.itch.io/shit-grenade-private-throw-it-back-now) (Incompatible with uniform skins) [blackout]
+- [Better Player Icon](https://j0w00d.itch.io/better-player-icon) (Orange arrow version) [JoWooD]
 
 ### Vehicles:
 - **Both factions:**
@@ -126,6 +138,7 @@ Not included in the modpack !
 - **Warden:**
   - [French Vehicles](https://www.nexusmods.com/foxhole/mods/38) (Includes optional French/German flags) [kromgar1]
   - [WW1 and WW2 French Vehicle Remodel](https://www.nexusmods.com/foxhole/mods/109) [ErichEgf]
+  - [S35 & D2](https://discord.com/channels/867256068475977748/937779375942815825/1255343295689658368) (To try out...) [Stitch]
 
 ### Uniforms:
 - **Warden:**
@@ -136,6 +149,7 @@ Not included in the modpack !
 - **Warden:**
   - [French Flags](https://www.nexusmods.com/foxhole/mods/69) [Docteur Lulu]
   - [Wolfenstein Flag](https://www.nexusmods.com/foxhole/mods/45) (US vs Germany) [kromgar1]
+  - [NATO Flag](https://discord.com/channels/867256068475977748/1191260498948268132/1304585617514037248) [Danetello]
 
 ### Weapons:
 - **Colonial:**
