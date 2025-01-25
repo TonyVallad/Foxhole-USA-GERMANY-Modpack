@@ -125,12 +125,15 @@ The images included here provide a preview of how the modpack appears at the tim
 Not included in the modpack !
 
 ### Utilities:
-- [Tanker Sound Callouts](https://saul-mangood.itch.io/tanker-callouts) [Saul_ManGood]
-- [UI Styles](https://ceeps.itch.io/foxhole-ui-styles) [Ceeps]
-- [Weapons Stats](https://discord.com/channels/867256068475977748/1200427677652365363/1200427677652365363) (Displays weapon stats in the inventory description but doesn't seem up to date) [blackout]
-- [Santa Hat](https://nautilusd.itch.io/santa-hat) (Does not work with uniform skins) [nautilusd]
-- [Mud & Blood](https://biackout.itch.io/shit-grenade-private-throw-it-back-now) (Incompatible with uniform skins) [blackout]
-- [Better Player Icon](https://j0w00d.itch.io/better-player-icon) (Orange arrow version) [JoWooD]
+- **Sound:**
+  - [Tanker Sound Callouts](https://saul-mangood.itch.io/tanker-callouts) [Saul_ManGood]
+- **Map:**
+  - [Better Player Icon](https://j0w00d.itch.io/better-player-icon) (Orange arrow version) [JoWooD]
+- **HUD:**
+  - [UI Styles](https://ceeps.itch.io/foxhole-ui-styles) [Ceeps]
+  - [Weapons Stats](https://discord.com/channels/867256068475977748/1200427677652365363/1200427677652365363) (Displays weapon stats in the inventory description but doesn't seem up to date) [blackout]
+- **Visuals:**
+  - [Mud & Blood](https://biackout.itch.io/shit-grenade-private-throw-it-back-now) (Incompatible with uniform skins) [blackout]
 
 ### Vehicles:
 - **Both factions:**
@@ -141,6 +144,8 @@ Not included in the modpack !
   - [S35 & D2](https://discord.com/channels/867256068475977748/937779375942815825/1255343295689658368) (To try out...) [Stitch]
 
 ### Uniforms:
+- **Both factions:**
+  - [Santa Hat](https://nautilusd.itch.io/santa-hat) (Does not work with uniform skins) [nautilusd]
 - **Warden:**
   - [Poilus (WWI French)](https://sentsu.itch.io/foxhole-warden-french-ww1-poilus) [Sentsu]
   - [Luftwaffe Faction](https://www.nexusmods.com/foxhole/mods/89) [Kaizer]
