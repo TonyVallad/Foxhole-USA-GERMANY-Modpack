@@ -56,10 +56,11 @@ The images included here provide a preview of how the modpack appears at the tim
   - [Metal Pipe Vehicle Destruction Sound](https://goliaten.itch.io/foxhole-metal-pipe-vehicle-destruction-sound) [Goliaten]
 - **Map:**
   - [ImprovedMapMode KnightofScience Edit](https://knight-of-science.itch.io/improved-map-mod-kos-edit) (Enhanced map) [Knight of Science]
-  - [GoblinGreen & SimpleRed](https://ceeps.itch.io/chadblue-simplered-ui) (Better green icons for Colonials and red for Wardens) [Ceeps]
-  - [New Large Ship Icon](https://dkov.itch.io/foxhole-new-large-ship-icon) [DKoV]
-  - [Resource Mines/Fields Recolored](https://muki47.itch.io/foxhole-resource-minesfields-recolored) [Muki47]
   - [BB Tiers](https://nautilusd.itch.io/bb-tiers) (Visible bunker tiers on the map) [nautilusd]
+  - [Red Icons Mod](https://danetello.itch.io/foxhole-red-icons-mod) (used to get red structure icons) [Danetello]
+  - [Improved Map Icons](https://discord.com/channels/867256068475977748/1326937024451575879/1333116323806576832) [Tony & Bu]
+    - Intel: Greatly inspired by [Ceeps's ChadBlue-GoblinGreen-SimpleRed mod](https://ceeps.itch.io/chadblue-simplered-ui) and includes [Bu's Ship Icon](https://discord.com/channels/867256068475977748/1326937024451575879/1331933166503723008)
+    - Resources: Inspired by [Bu's Recolored Resources Icons](https://discord.com/channels/867256068475977748/1326937024451575879/1332715705258217534)
 - **HUD:**
   - [Colorful Crosshairs](https://ceeps.itch.io/colorful-crosshairs) (Colored crosshair, yellow in this pack) [Ceeps]
   - [Advanced Bars](https://www.nexusmods.com/foxhole/mods/29) (Stamina and fuel bar with separators every 10%) [DustAve & KOCMOHABT]
@@ -70,11 +71,11 @@ The images included here provide a preview of how the modpack appears at the tim
 - **Visuals:**
   - [Striped Shells Retexture](https://www.nexusmods.com/foxhole/mods/105) (Color-coded shells for easier identification) [mailbock]
   - [Red Tracers](https://foxholeenjoyer.itch.io/redtracers) [foxholeenjoyer]
-  - [Real Trak](https://discord.com/channels/344477723495759876/1042250271281127425/1090921702613073980) (Improved rails with reflections) [?]
+  - [Real Trak](https://discord.com/channels/867256068475977748/901902350946545664/1090921671420035123) (Improved rails with reflections) [Liquid Popsicle]
 
 ### Vehicles:
 - **Both factions:**
-  - [Better Fuel Trucks](https://discord.com/channels/344477723495759876/1042250271281127425/1100476939648630804) [?]
+  - [Better Fuel Trucks](https://discord.com/channels/867256068475977748/901902350946545664/1100476897336492082) [Egg.Vonel]
   - [Flatbed](https://www.nexusmods.com/foxhole/mods/52) [WolfgangIX] + [Yellow Texture](https://discord.com/channels/867256068475977748/1283097872790851687/1283097872790851687) [Autumn]
   - [Battle Bus Mod](https://danetello.itch.io/foxhole-battle-bus-mod) [Danetello]
 - **Colonial:**
@@ -129,6 +130,9 @@ Not included in the modpack !
   - [Tanker Sound Callouts](https://saul-mangood.itch.io/tanker-callouts) [Saul_ManGood]
 - **Map:**
   - [Better Player Icon](https://j0w00d.itch.io/better-player-icon) (Orange arrow version) [JoWooD]
+  - [GoblinGreen, ChadBlue & SimpleRed](https://ceeps.itch.io/chadblue-simplered-ui) (This is the one that inspired me to do the mod included in this pack) [Ceeps]
+  - [New Large Ship Icon](https://dkov.itch.io/foxhole-new-large-ship-icon) [DKoV]
+  - [Resource Mines/Fields Recolored](https://muki47.itch.io/foxhole-resource-minesfields-recolored) [Muki47]
 - **HUD:**
   - [UI Styles](https://ceeps.itch.io/foxhole-ui-styles) [Ceeps]
   - [Weapons Stats](https://discord.com/channels/867256068475977748/1200427677652365363/1200427677652365363) (Displays weapon stats in the inventory description but doesn't seem up to date) [blackout]
