@@ -56,6 +56,7 @@ The images included here provide a preview of how the modpack appears at the tim
   - [Metal Pipe Vehicle Destruction Sound](https://goliaten.itch.io/foxhole-metal-pipe-vehicle-destruction-sound) [Goliaten]
 - **Map:**
   - [ImprovedMapMode KnightofScience Edit](https://knight-of-science.itch.io/improved-map-mod-kos-edit) (Enhanced map) [Knight of Science]
+  - [Improved Zoom](https://knight-of-science.itch.io/improved-zoom) (Enhanced zoom on map) [Knight of Science]
   - [BB Tiers](https://nautilusd.itch.io/bb-tiers) (Visible bunker tiers on the map) [nautilusd]
   - [Red Icons Mod](https://danetello.itch.io/foxhole-red-icons-mod) (used to get red structure icons) [Danetello]
   - [Improved Map Icons](https://discord.com/channels/867256068475977748/1326937024451575879/1333116323806576832) [Tony & Bu]
@@ -72,6 +73,7 @@ The images included here provide a preview of how the modpack appears at the tim
   - [Striped Shells Retexture](https://www.nexusmods.com/foxhole/mods/105) (Color-coded shells for easier identification) [mailbock]
   - [Red Tracers](https://foxholeenjoyer.itch.io/redtracers) [foxholeenjoyer]
   - [Real Trak](https://discord.com/channels/867256068475977748/901902350946545664/1090921671420035123) (Improved rails with reflections) [Liquid Popsicle]
+  - [Better Rail Switch Sign](https://danetello.itch.io/foxhole-better-rail-switch-sign) (Adds an arrow to the back of the rail switch sign) [Danetello]
 
 ### Vehicles:
 - **Both factions:**
